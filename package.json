@@ -1,0 +1,22 @@
+{
+  "name": "max-char-ellipsis",
+  "version": "1.0.0",
+  "description": "Replace characters when it exceeds",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clochi/max-char-ellipsis.git"
+  },
+  "author": "Claudio Zurita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clochi/max-char-ellipsis/issues"
+  },
+  "homepage": "https://github.com/clochi/max-char-ellipsis#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
